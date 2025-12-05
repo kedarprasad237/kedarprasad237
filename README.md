@@ -90,16 +90,7 @@ Jest · React Testing Library
 🔗 **Live:** https://ehsprints.com  
 🛠 Tech: React.js, Tailwind CSS, Firebase, AWS, Express.js  
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kedarprasad237&show_icons=true&theme=react" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarprasad237&layout=compact&theme=react" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 
